@@ -1,0 +1,111 @@
+
+---Downloaded files---
+The import files for: Travolo Demo were successfully downloaded!
+Initial max execution time = 360
+Files info:
+Site URL = https://chpcottages.oxylator.group
+Data file = /home/u253819986/domains/oxylator.group/public_html/chpcottages/wp-content/themes/travolo/inc/demo-data/travolo-demo.xml
+Widget file = /home/u253819986/domains/oxylator.group/public_html/chpcottages/wp-content/themes/travolo/inc/demo-data/travolo-widgets-demo.json
+Customizer file = not defined!
+Redux files:
+travolo_opt -> /home/u253819986/domains/oxylator.group/public_html/chpcottages/wp-content/themes/travolo/inc/demo-data/redux_options_demo.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+
+Page Sidebar : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: travolo_opt finished successfully!
+
+---ocdi/after_import---
+

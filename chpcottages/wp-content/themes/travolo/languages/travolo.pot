@@ -1,0 +1,2288 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Travolo\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-02-09 11:12+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4.3\n"
+"X-Domain: travolo"
+
+#: inc/hooks/hooks-functions.php:344
+msgid " Comment"
+msgstr ""
+
+#: inc/hooks/hooks-functions.php:346
+msgid " Comments"
+msgstr ""
+
+#: comments.php:57
+msgid ""
+" Save my name, email, and website in this browser for the next time I "
+"comment."
+msgstr ""
+
+#: inc/hooks/hooks-functions.php:557
+msgid " Views"
+msgstr ""
+
+#: inc/travolo-framework/travolo-meta/travolo-config.php:275
+msgid "$29"
+msgstr ""
+
+#: inc/travolo-framework/travolo-meta/travolo-config.php:248
+msgid "$299"
+msgstr ""
+
+#: inc/travolo-functions.php:269
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: inc/woo-hooks/travolo-woo-hooks-functions.php:489
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/wp_bootstrap_pagination.php:40
+msgid "&laquo;"
+msgstr ""
+
+#: inc/wp_bootstrap_pagination.php:41
+msgid "&raquo;"
+msgstr ""
+
+#: inc/travolo-framework/travolo-meta/travolo-config.php:307
+msgid "+44 (0) 207 689 7888"
+msgstr ""
+
+#: inc/travolo-framework/travolo-meta/travolo-config.php:282
+msgid "/ month"
+msgstr ""
+
+#: inc/travolo-functions.php:527
+msgid "0 Views"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:655
+#: inc/travolo-framework/travolo-options/travolo-options.php:678
+#: inc/travolo-framework/travolo-options/travolo-options.php:835
+#: inc/travolo-framework/travolo-options/travolo-options.php:1125
+#: inc/travolo-framework/travolo-options/travolo-options.php:1338
+#: inc/travolo-framework/travolo-options/travolo-options.php:1404
+msgid "1 Column"
+msgstr ""
+
+#: inc/travolo-framework/travolo-meta/travolo-config.php:267
+msgid "11 - 13 Years"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:659
+#: inc/travolo-framework/travolo-options/travolo-options.php:682
+#: inc/travolo-framework/travolo-options/travolo-options.php:839
+#: inc/travolo-framework/travolo-options/travolo-options.php:1129
+#: inc/travolo-framework/travolo-options/travolo-options.php:1342
+#: inc/travolo-framework/travolo-options/travolo-options.php:1408
+msgid "2 Column Left"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:663
+#: inc/travolo-framework/travolo-options/travolo-options.php:686
+#: inc/travolo-framework/travolo-options/travolo-options.php:843
+#: inc/travolo-framework/travolo-options/travolo-options.php:1133
+#: inc/travolo-framework/travolo-options/travolo-options.php:1346
+#: inc/travolo-framework/travolo-options/travolo-options.php:1412
+msgid "2 Column Right"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1361
+#: inc/travolo-framework/travolo-options/travolo-options.php:1473
+#: inc/travolo-framework/travolo-options/travolo-options.php:1519
+#: inc/travolo-framework/travolo-options/travolo-options.php:1565
+msgid "2 Columns"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1365
+#: inc/travolo-framework/travolo-options/travolo-options.php:1477
+#: inc/travolo-framework/travolo-options/travolo-options.php:1523
+#: inc/travolo-framework/travolo-options/travolo-options.php:1569
+msgid "3 Columns"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1369
+#: inc/travolo-framework/travolo-options/travolo-options.php:1481
+#: inc/travolo-framework/travolo-options/travolo-options.php:1527
+#: inc/travolo-framework/travolo-options/travolo-options.php:1573
+msgid "4 Columns"
+msgstr ""
+
+#: 404.php:22 inc/travolo-framework/travolo-options/travolo-options.php:1248
+msgid "404"
+msgstr ""
+
+#: templates/header-menu-bottom.php:193
+msgid "404 PAGE"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1231
+msgid "404 Page"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1237
+msgid "404 Page Image"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1373
+#: inc/travolo-framework/travolo-options/travolo-options.php:1381
+msgid "5 Columns"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1377
+#: inc/travolo-framework/travolo-options/travolo-options.php:1385
+#: inc/travolo-framework/travolo-options/travolo-options.php:1485
+#: inc/travolo-framework/travolo-options/travolo-options.php:1531
+#: inc/travolo-framework/travolo-options/travolo-options.php:1577
+msgid "6 Columns"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1914
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:209
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:198
+#: inc/travolo-framework/travolo-options/travolo-options.php:203
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1699
+msgid "A very warm welcome to our new Treasurer"
+msgstr ""
+
+#: inc/redux-custom-field/wheely-option-slide-add-field.php:317
+#, php-format
+msgid "Add %s"
+msgstr ""
+
+#: inc/travolo-framework/travolo-meta/travolo-config.php:316
+msgid "Add Another Profile"
+msgstr ""
+
+#: inc/travolo-widgets-reg.php:28
+msgid "Add Blog Sidebar Widgets Here."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1761
+msgid "Add Copyright Text"
+msgstr ""
+
+#: inc/travolo-framework/travolo-meta/travolo-config.php:116
+msgid "Add File"
+msgstr ""
+
+#: inc/travolo-framework/travolo-meta/travolo-config.php:230
+msgid "Add Image"
+msgstr ""
+
+#: inc/travolo-widgets-reg.php:39
+msgid "Add Page Sidebar Widgets Here."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1625
+msgid "Add social icon and url."
+msgstr ""
+
+#: inc/travolo-framework/travolo-meta/travolo-config.php:313
+msgid "Add social profiles"
+msgstr ""
+
+#: inc/travolo-framework/travolo-meta/travolo-config.php:197
+msgid "Add Swap Image"
+msgstr ""
+
+#: inc/woo-hooks/travolo-woo-hooks-functions.php:631
+msgid "Add To Cart"
+msgstr ""
+
+#: inc/travolo-widgets-reg.php:51
+msgid "Add widgets here to appear in your woocommerce page sidebar."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1238
+msgid "Add Your 404 Page Image"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:410
+msgid "Admin Label"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:416
+msgid "Admin Login Logo"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:423
+msgid "Any CSS your write here will run in admin."
+msgstr ""
+
+#: inc/woo-hooks/travolo-woo-hooks-functions.php:404
+#: inc/woo-hooks/travolo-woo-hooks-functions.php:417
+msgid "Availability:"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:335
+msgid "Back To Top"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:342
+msgid "Back To Top Button"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:351
+msgid "Back To Top Button Background Color"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:367
+msgid "Back To Top Button Border Color"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:359
+msgid "Back To Top Icon Color"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1188
+msgid "Background"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:856
+#: inc/travolo-framework/travolo-options/travolo-options.php:1425
+msgid "Below Thumbnail"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:889
+msgid "Biography Info"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:289
+msgid "Black Color"
+msgstr ""
+
+#: templates/header-menu-bottom.php:167 templates/header-menu-bottom.php:176
+#: inc/travolo-framework/travolo-options/travolo-options.php:643
+msgid "Blog"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:728
+msgid "Blog Custom Title"
+msgstr ""
+
+#: templates/header-menu-bottom.php:277
+msgid "Blog Details"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:864
+msgid "Blog Details Custom Title"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:780
+msgid "Blog Excerpt / Content Color"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:939
+msgid "Blog Meta Hover Text Color"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:925
+msgid "Blog Meta Icon Color"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:932
+msgid "Blog Meta Text Color"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:710
+msgid "Blog Page Title"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:716
+msgid "Blog Page Title Setting"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:808
+msgid "Blog Pagination Active Color"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:801
+msgid "Blog Pagination Color"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:816
+msgid "Blog Pagination Hover Color"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:858
+msgid "Blog Post Title Position"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:735
+msgid "Blog Posts Excerpt"
+msgstr ""
+
+#: inc/travolo-widgets-reg.php:26
+#: inc/travolo-framework/travolo-options/travolo-options.php:1148
+msgid "Blog Sidebar"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:702
+msgid "Blog Style"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:698
+msgid "Blog Style One"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:699
+msgid "Blog Style Two"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:766
+msgid "Blog Title Color"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:773
+msgid "Blog Title Hover Color"
+msgstr ""
+
+#: inc/redux-custom-field/extensions/box_shadow/box_shadow/field_box_shadow.php:285
+msgid "Blur"
+msgstr ""
+
+#: inc/redux-custom-field/extensions/box_shadow/box_shadow/field_box_shadow.php:283
+msgid "Blur Radius"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:269
+msgid "Body Text Color"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:325
+msgid "Border Color"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1013
+msgid "Box Shadow"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:230
+msgid "Brand Color"
+msgstr ""
+
+#: inc/travolo-framework/travolo-meta/travolo-config.php:151
+msgid "Breadcrumb"
+msgstr ""
+
+#: inc/travolo-functions.php:472
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1212
+msgid "Breadcrumb Active Color"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1204
+msgid "Breadcrumb Color"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1221
+msgid "Breadcrumb Divider Color"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1195
+msgid "Breadcrumb Hide/Show"
+msgstr ""
+
+#: inc/travolo-framework/travolo-meta/travolo-config.php:107
+msgid "Breadcumb Image"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1306
+msgid "Button Background Color"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1291
+#: inc/travolo-framework/travolo-options/travolo-options.php:1299
+msgid "Button Color"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1314
+msgid "Button Hover Background Color"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1267
+msgid "Button Text"
+msgstr ""
+
+#: inc/hooks/hooks-functions.php:24 inc/hooks/hooks-functions.php:32
+msgid "Cancel Preloader"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:612
+msgid "Cart Offcanvas"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:981
+msgid "Category"
+msgstr ""
+
+#: inc/travolo-framework/travolo-meta/travolo-config.php:225
+msgid "Category Image"
+msgstr ""
+
+#: inc/travolo-framework/travolo-meta/travolo-config.php:214
+msgid "Category Metabox"
+msgstr ""
+
+#: inc/woo-hooks/travolo-woo-hooks-functions.php:442
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/travolo-framework/travolo-meta/travolo-config.php:84
+msgid "check to display page breadcrumb area."
+msgstr ""
+
+#: inc/travolo-framework/travolo-meta/travolo-config.php:123
+msgid "check to display Page Title."
+msgstr ""
+
+#: inc/woo-hooks/travolo-woo-hooks-functions.php:530
+msgid "Checkout"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:652
+msgid ""
+"Choose blog layout from here. If you use this option then you will able to "
+"change three type of blog layout ( Default Left Sidebar Layour ). "
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:832
+msgid ""
+"Choose blog single page layout from here. If you use this option then you "
+"will able to change three type of blog single page layout ( Default Left "
+"Sidebar Layour ). "
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1222
+msgid "Choose breadcrumb divider color."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1213
+msgid ""
+"Choose page header breadcrumb text active color here.If you user this option "
+"then you will able to set page breadcrumb active color."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1205
+msgid ""
+"Choose page header breadcrumb text color here.If you user this option then "
+"you will able to set page breadcrumb color."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1400
+msgid "Choose product single page sidebar."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1334
+msgid "Choose shop page sidebar"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:443
+msgid "Choose the site Dark logo"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:452
+msgid "Choose the site White logo"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1121
+msgid ""
+"Choose your page layout. If you use this option then you will able to choose "
+"three type of page layout ( Default no sidebar ). "
+msgstr ""
+
+#: inc/travolo-framework/travolo-meta/travolo-config.php:264
+msgid "Class Info"
+msgstr ""
+
+#: inc/travolo-framework/travolo-meta/travolo-config.php:259
+msgid "class Metabox"
+msgstr ""
+
+#: inc/travolo-framework/plugins-activation/travolo-active-plugins.php:79
+msgid "CMB2"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:963
+msgid "Comment Count"
+msgstr ""
+
+#: inc/hooks/hooks-functions.php:504
+msgid "Comments are closed"
+msgstr ""
+
+#: comments.php:25
+#, php-format
+msgctxt "comments title"
+msgid "1 Comment "
+msgid_plural "Comments  (%1$s)"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/woo-hooks/travolo-woo-hooks.php:146
+#: inc/woo-hooks/travolo-woo-hooks.php:197
+#: inc/woo-hooks/travolo-woo-hooks.php:270
+#: inc/woo-hooks/travolo-woo-hooks.php:339
+msgid "Company name (optional)"
+msgstr ""
+
+#: inc/travolo-framework/plugins-activation/travolo-active-plugins.php:85
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/travolo-framework/travolo-meta/travolo-config.php:172
+msgid "Container"
+msgstr ""
+
+#: inc/travolo-framework/travolo-meta/travolo-config.php:173
+msgid "Container Fluid"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:890
+msgid ""
+"Control biography info from here. If you use this option then you will able "
+"to show or hide biography info ( Default setting Show )."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:717
+msgid ""
+"Control blog page title setting. If you use this option then you can able to "
+"show default or custom blog page title ( Default Blog )."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:711
+msgid ""
+"Control blog page title show / hide. If you use this option then you will "
+"able to show / hide your blog page title ( Default Setting Show )."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:859
+msgid "Control blog post title position from here."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:596
+msgid "Control Header Searchbar By Show Or Hide System."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:899
+msgid ""
+"Control post navigation from here. If you use this option then you will able "
+"to show or hide post navigation ( Default setting Show )."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:881
+msgid ""
+"Control post share options from here. If you use this option then you will "
+"able to show or hide post share options."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1428
+msgid "Control product details title position from here."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:748
+msgid "Control read more text from here."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:908
+msgid ""
+"Control related post from here. If you use this option then you will able to "
+"show or hide related post ( Default setting Show )."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:736
+msgid ""
+"Control the number of characters you want to show in the blog page for each "
+"post.. If you use this option then you can able to control your blog post "
+"characters from here ( Default show 10 )."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1760
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1559
+msgid "Cross sell Product Column"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1541
+msgid "Cross sell product Hide/Show"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1550
+msgid "Cross sell products number"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1805
+msgid "CSS Code"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:720
+#: inc/travolo-framework/travolo-options/travolo-options.php:751
+msgid "Custom"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1798
+msgid "Custom Css"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:422
+msgid "Custom CSS For admin"
+msgstr ""
+
+#: inc/travolo-framework/travolo-meta/travolo-config.php:145
+msgid "Custom Page Title"
+msgstr ""
+
+#: inc/travolo-framework/travolo-meta/travolo-config.php:139
+msgid "Custom Title"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:719
+#: inc/travolo-framework/travolo-options/travolo-options.php:750
+msgid "Default"
+msgstr ""
+
+#: inc/travolo-framework/travolo-meta/travolo-config.php:138
+msgid "Default Title"
+msgstr ""
+
+#: inc/redux-custom-field/wheely-option-slide-add-field.php:221
+#: inc/redux-custom-field/wheely-option-slide-add-field.php:314
+msgid "Delete"
+msgstr ""
+
+#: inc/demo-data/demo-import.php:16
+msgid "Demo Preview Imgae"
+msgstr ""
+
+#: inc/redux-custom-field/wheely-option-slide-add-field.php:203
+#: inc/redux-custom-field/wheely-option-slide-add-field.php:298
+msgid "Description"
+msgstr ""
+
+#: inc/travolo-framework/travolo-meta/travolo-config.php:297
+msgid "Designation"
+msgstr ""
+
+#: inc/travolo-framework/travolo-meta/travolo-config.php:245
+msgid "Destination Price"
+msgstr ""
+
+#: inc/travolo-framework/travolo-meta/travolo-config.php:241
+msgid "Destinations Metabox"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1737
+#: inc/travolo-framework/travolo-options/travolo-options.php:1747
+msgid "Disable"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:346
+#: inc/travolo-framework/travolo-options/travolo-options.php:387
+#: inc/travolo-framework/travolo-options/travolo-options.php:875
+#: inc/travolo-framework/travolo-options/travolo-options.php:949
+#: inc/travolo-framework/travolo-options/travolo-options.php:958
+#: inc/travolo-framework/travolo-options/travolo-options.php:967
+#: inc/travolo-framework/travolo-options/travolo-options.php:976
+#: inc/travolo-framework/travolo-options/travolo-options.php:985
+#: inc/travolo-framework/travolo-options/travolo-options.php:1160
+msgid "Disabled"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1820
+msgid "Documentation"
+msgstr ""
+
+#: inc/travolo-framework/travolo-meta/travolo-config.php:279
+msgid "Duration"
+msgstr ""
+
+#: inc/travolo-functions.php:278
+msgid "Edit"
+msgstr ""
+
+#: inc/travolo-framework/plugins-activation/travolo-active-plugins.php:65
+msgid "Elementor"
+msgstr ""
+
+#: inc/woo-hooks/travolo-woo-hooks.php:156
+#: inc/woo-hooks/travolo-woo-hooks.php:207
+#: inc/woo-hooks/travolo-woo-hooks.php:282
+#: inc/woo-hooks/travolo-woo-hooks.php:351
+msgid "Email address"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:345
+#: inc/travolo-framework/travolo-options/travolo-options.php:386
+#: inc/travolo-framework/travolo-options/travolo-options.php:874
+#: inc/travolo-framework/travolo-options/travolo-options.php:948
+#: inc/travolo-framework/travolo-options/travolo-options.php:957
+#: inc/travolo-framework/travolo-options/travolo-options.php:966
+#: inc/travolo-framework/travolo-options/travolo-options.php:975
+#: inc/travolo-framework/travolo-options/travolo-options.php:984
+#: inc/travolo-framework/travolo-options/travolo-options.php:1159
+#: inc/travolo-framework/travolo-options/travolo-options.php:1736
+#: inc/travolo-framework/travolo-options/travolo-options.php:1746
+msgid "Enabled"
+msgstr ""
+
+#: inc/travolo-functions.php:504
+msgid "Enter"
+msgstr ""
+
+#: comments.php:55
+msgid "Enter E-mail Address *"
+msgstr ""
+
+#: inc/travolo-functions.php:503
+msgid "Enter Password"
+msgstr ""
+
+#: comments.php:54
+msgid "Enter Your Name *"
+msgstr ""
+
+#: inc/travolo-breadcrumbs.php:124
+msgid "Error 404"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:319
+msgid "Error Color"
+msgstr ""
+
+#: inc/travolo-framework/travolo-meta/travolo-config.php:219
+msgid "Extra Info"
+msgstr ""
+
+#: inc/redux-custom-field/wheely-option-slide-add-field.php:199
+msgid "Facts Number"
+msgstr ""
+
+#: inc/redux-custom-field/wheely-option-slide-add-field.php:294
+msgid "Facts number"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1739
+msgid ""
+"First make your footer from footer custom types then select it from here."
+msgstr ""
+
+#: inc/woo-hooks/travolo-woo-hooks.php:136
+#: inc/woo-hooks/travolo-woo-hooks.php:187
+#: inc/woo-hooks/travolo-woo-hooks.php:258
+#: inc/woo-hooks/travolo-woo-hooks.php:327
+msgid "First Name"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1706
+msgid "Footer"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1753
+msgid "Footer Bottom Background Color"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1744
+msgid "Footer Bottom?"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1723
+#: inc/travolo-framework/travolo-options/travolo-options.php:1726
+msgid "Footer Builder"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1776
+msgid "Footer Copyright Ancor Color"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1784
+msgid "Footer Copyright Ancor Hover Color"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1768
+msgid "Footer Copyright Text Color"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1651
+#: inc/travolo-framework/travolo-options/travolo-options.php:1654
+msgid "Footer Widget"
+msgstr ""
+
+#: inc/travolo-framework/travolo-meta/travolo-config.php:174
+msgid "Fullwidth"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1659
+msgid "Gallery Images"
+msgstr ""
+
+#: inc/travolo-framework/travolo-meta/travolo-config.php:101
+msgid "Global Settings"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1051
+#: inc/travolo-framework/travolo-options/travolo-options.php:1166
+msgid "H1"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1052
+#: inc/travolo-framework/travolo-options/travolo-options.php:1167
+msgid "H2"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1053
+#: inc/travolo-framework/travolo-options/travolo-options.php:1168
+msgid "H3"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1054
+#: inc/travolo-framework/travolo-options/travolo-options.php:1169
+msgid "H4"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1055
+#: inc/travolo-framework/travolo-options/travolo-options.php:1170
+msgid "H5"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1056
+#: inc/travolo-framework/travolo-options/travolo-options.php:1171
+msgid "H6"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:463
+#: inc/travolo-framework/travolo-options/travolo-options.php:486
+msgid "Header"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:474
+msgid "Header Builder"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:495
+msgid "Header Logo"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:543
+msgid "Header Menu"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:476
+msgid "Header Options"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:595
+msgid "Header Searchbar?"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:262
+msgid "Heading Color"
+msgstr ""
+
+#: inc/travolo-framework/travolo-meta/travolo-config.php:90
+#: inc/travolo-framework/travolo-meta/travolo-config.php:129
+#: inc/travolo-framework/travolo-options/travolo-options.php:594
+#: inc/travolo-framework/travolo-options/travolo-options.php:709
+#: inc/travolo-framework/travolo-options/travolo-options.php:883
+#: inc/travolo-framework/travolo-options/travolo-options.php:892
+#: inc/travolo-framework/travolo-options/travolo-options.php:901
+#: inc/travolo-framework/travolo-options/travolo-options.php:910
+#: inc/travolo-framework/travolo-options/travolo-options.php:1007
+#: inc/travolo-framework/travolo-options/travolo-options.php:1444
+#: inc/travolo-framework/travolo-options/travolo-options.php:1453
+#: inc/travolo-framework/travolo-options/travolo-options.php:1499
+#: inc/travolo-framework/travolo-options/travolo-options.php:1545
+msgid "Hide"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1196
+msgid ""
+"Hide / Show breadcrumb from all pages and posts ( Default settings hide )."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1542
+msgid "Hide / Show cross sell product in single page (Default Settings Show)"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1450
+msgid "Hide / Show related product in single page (Default Settings Show)"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1496
+msgid "Hide / Show upsell product in single page (Default Settings Show)"
+msgstr ""
+
+#: inc/travolo-breadcrumbs.php:27
+msgid "Home"
+msgstr ""
+
+#: inc/woo-hooks/travolo-woo-hooks-functions.php:271
+msgid "Hot"
+msgstr ""
+
+#. URI of the theme
+msgid "https://wordpress.vecurosoft.com/travolo/"
+msgstr ""
+
+#: inc/redux-custom-field/wheely-option-slide-add-field.php:186
+#: inc/redux-custom-field/wheely-option-slide-add-field.php:282
+msgid "Icon"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1641
+msgid "Icon (example: fa fa-facebook) "
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1687
+msgid "Image"
+msgstr ""
+
+#: inc/redux-custom-field/wheely-option-slide-add-field.php:127
+#: inc/redux-custom-field/wheely-option-slide-add-field.php:234
+msgid "image"
+msgstr ""
+
+#: inc/demo-data/demo-import.php:68
+msgid "Import Demo Data"
+msgstr ""
+
+#: inc/woo-hooks/travolo-woo-hooks-functions.php:408
+msgid "In Stock"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:417
+msgid "It belongs to the back-end of your website to log-in to admin panel."
+msgstr ""
+
+#: templates/content-none.php:34
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/woo-hooks/travolo-woo-hooks.php:141
+#: inc/woo-hooks/travolo-woo-hooks.php:192
+#: inc/woo-hooks/travolo-woo-hooks.php:264
+#: inc/woo-hooks/travolo-woo-hooks.php:333
+msgid "Last Name"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:651
+#: inc/travolo-framework/travolo-options/travolo-options.php:831
+msgid "Layout"
+msgstr ""
+
+#: comments.php:63
+msgid "Leave A Comment"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:283
+msgid "Light Color"
+msgstr ""
+
+#: comments.php:67
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:435
+#: inc/travolo-framework/travolo-options/travolo-options.php:442
+msgid "Logo"
+msgstr ""
+
+#: inc/travolo-functions.php:61 inc/travolo-functions.php:91
+msgid "logo"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:511
+msgid "Logo Dimensions (Width/Height)."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:522
+msgid "Logo Top and Bottom Margin."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1599
+msgid "Mailchimp API Key"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1605
+msgid "Mailchimp List ID"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:550
+msgid "Menu Color"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:557
+msgid "Menu Hover Color"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:917
+msgid "Meta Data"
+msgstr ""
+
+#: inc/theme-setup.php:36
+msgid "Mobile Menu"
+msgstr ""
+
+#: inc/redux-custom-field/wheely-option-slide-add-field.php:77
+#: inc/redux-custom-field/wheely-option-slide-add-field.php:228
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: inc/woo-hooks/travolo-woo-hooks-functions.php:145
+msgid "Next"
+msgstr ""
+
+#: inc/hooks/hooks-functions.php:439
+msgid "Next Post"
+msgstr ""
+
+#: templates/content-none.php:17
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:619
+msgid "Offcanvas Panel Background"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:626
+msgid "Offcanvas Title Color"
+msgstr ""
+
+#: inc/redux-custom-field/extensions/box_shadow/box_shadow/field_box_shadow.php:243
+msgid "Offset X"
+msgstr ""
+
+#: inc/redux-custom-field/extensions/box_shadow/box_shadow/field_box_shadow.php:263
+msgid "Offset Y"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:855
+#: inc/travolo-framework/travolo-options/travolo-options.php:1424
+msgid "On Header"
+msgstr ""
+
+#: inc/travolo-framework/plugins-activation/travolo-active-plugins.php:59
+msgid "One Click Demo Importer"
+msgstr ""
+
+#: 404.php:23
+msgid "OOOPS, PAGE NOT FOUND"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1255
+msgid "Oops! That page can't be found."
+msgstr ""
+
+#: inc/redux-custom-field/extensions/box_shadow/box_shadow/field_box_shadow.php:326
+msgid "Opacity"
+msgstr ""
+
+#: inc/redux-custom-field/extensions/box_shadow/box_shadow/field_box_shadow.php:324
+msgid "Opacity .1 - 1"
+msgstr ""
+
+#: inc/woo-hooks/travolo-woo-hooks-functions.php:418
+msgid "Out Of Stock"
+msgstr ""
+
+#: inc/travolo-functions.php:157
+#: inc/travolo-framework/travolo-options/travolo-options.php:1113
+msgid "Page"
+msgstr ""
+
+#: inc/travolo-framework/travolo-meta/travolo-config.php:83
+msgid "Page Breadcrumb Area"
+msgstr ""
+
+#: inc/travolo-framework/travolo-meta/travolo-config.php:96
+msgid "Page Breadcrumb Settings"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1246
+msgid "Page Error Number"
+msgstr ""
+
+#: inc/travolo-framework/travolo-meta/travolo-config.php:160
+msgid "Page Layout"
+msgstr ""
+
+#: inc/travolo-framework/travolo-meta/travolo-config.php:77
+msgid "Page Meta"
+msgstr ""
+
+#: inc/travolo-framework/travolo-meta/travolo-config.php:102
+msgid "Page Settings"
+msgstr ""
+
+#: inc/travolo-widgets-reg.php:37
+#: inc/travolo-framework/travolo-options/travolo-options.php:1147
+msgid "Page Sidebar"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1260
+msgid "Page Subtitle"
+msgstr ""
+
+#: inc/travolo-framework/travolo-meta/travolo-config.php:122
+#: inc/travolo-framework/travolo-options/travolo-options.php:1253
+msgid "Page Title"
+msgstr ""
+
+#: inc/travolo-framework/travolo-meta/travolo-config.php:134
+msgid "Page Title Settings"
+msgstr ""
+
+#: inc/travolo-functions.php:153
+msgid "Pages:"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1806
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: inc/woo-hooks/travolo-woo-hooks.php:151
+#: inc/woo-hooks/travolo-woo-hooks.php:202
+#: inc/woo-hooks/travolo-woo-hooks.php:276
+#: inc/woo-hooks/travolo-woo-hooks.php:345
+msgid "Phone"
+msgstr ""
+
+#: inc/travolo-framework/travolo-meta/travolo-config.php:304
+msgid "Phone Number"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1284
+msgid "Pick a subtitle color"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1276
+msgid "Pick a title color"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1307
+msgid "Pick Button Background Color"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1292
+#: inc/travolo-framework/travolo-options/travolo-options.php:1300
+msgid "Pick Button Color"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1315
+msgid "Pick Button Hover Background Color"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:601
+msgid "Placeholder Text"
+msgstr ""
+
+#: inc/hooks/hooks-functions.php:536
+msgid "Post"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:954
+msgid "Post Auhtor"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:673
+msgid "Post Column"
+msgstr ""
+
+#: comments.php:70
+msgid "Post Comment"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:945
+msgid "Post Date"
+msgstr ""
+
+#: inc/travolo-framework/travolo-meta/travolo-config.php:63
+msgid "Post Format Audio"
+msgstr ""
+
+#: inc/travolo-framework/travolo-meta/travolo-config.php:57
+msgid "Post Format Video"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:898
+msgid "Post Navigation"
+msgstr ""
+
+#: inc/travolo-framework/travolo-meta/travolo-config.php:52
+msgid "Post Thumb Controller"
+msgstr ""
+
+#: inc/travolo-framework/travolo-meta/travolo-config.php:69
+msgid "Post Thumbnail For Slider"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:972
+msgid "Post Views"
+msgstr ""
+
+#: inc/woo-hooks/travolo-woo-hooks.php:182
+#: inc/woo-hooks/travolo-woo-hooks.php:233
+#: inc/woo-hooks/travolo-woo-hooks.php:313
+#: inc/woo-hooks/travolo-woo-hooks.php:382
+msgid "Postcode"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1724
+msgid "Pre-built Footer"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1714
+msgid "Pre-built Footer / Footer Builder"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:473
+msgid "Prebuilt"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:376
+#: inc/travolo-framework/travolo-options/travolo-options.php:383
+msgid "Preloader"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:392
+msgid "Preloader Color One"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:398
+msgid "Preloader Color Two"
+msgstr ""
+
+#: inc/woo-hooks/travolo-woo-hooks-functions.php:144
+msgid "Prev"
+msgstr ""
+
+#: inc/hooks/hooks-functions.php:421
+msgid "Previous Post"
+msgstr ""
+
+#: inc/travolo-framework/travolo-meta/travolo-config.php:272
+msgid "Price"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:238
+msgid "Primary Color"
+msgstr ""
+
+#: inc/theme-setup.php:35
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/travolo-framework/travolo-meta/travolo-config.php:300
+msgid "Principal and Manager"
+msgstr ""
+
+#: inc/woo-hooks/travolo-woo-hooks-functions.php:508
+msgid "Proceed to checkout"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1356
+msgid "Product Column"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1433
+msgid "Product Details Title"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1427
+msgid "Product Details Title Position"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1393
+msgid "Product Per Page"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1399
+msgid "Product Single Page sidebar"
+msgstr ""
+
+#: inc/travolo-framework/travolo-meta/travolo-config.php:188
+msgid "Product Swap Image"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:633
+msgid "Product Title Color"
+msgstr ""
+
+#: inc/travolo-framework/travolo-meta/travolo-config.php:330
+msgid "Profile URL"
+msgstr ""
+
+#: inc/travolo-framework/travolo-meta/travolo-config.php:315
+msgid "Profile {#}"
+msgstr ""
+
+#: inc/redux-custom-field/wheely-option-slide-add-field.php:168
+msgid "Progress"
+msgstr ""
+
+#: inc/redux-custom-field/wheely-option-slide-add-field.php:263
+msgid "progress"
+msgstr ""
+
+#: inc/hooks/hooks-functions.php:832 inc/hooks/hooks-functions.php:835
+msgid "Read More"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:787
+msgid "Read More Button Color"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:794
+msgid "Read More Button Hover Color"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:758
+msgid "Read More Text"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:747
+msgid "Read More Text Setting"
+msgstr ""
+
+#: templates/content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/travolo-framework/plugins-activation/travolo-active-plugins.php:72
+msgid "Redux Framework"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:907
+msgid "Related Post"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1467
+msgid "Related Product Column"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1449
+msgid "Related product Hide/Show"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1458
+msgid "Related products number"
+msgstr ""
+
+#: inc/hooks/hooks-functions.php:536
+msgid "Relatetd"
+msgstr ""
+
+#: inc/redux-custom-field/wheely-option-slide-add-field.php:146
+#: inc/redux-custom-field/wheely-option-slide-add-field.php:244
+msgid "Remove"
+msgstr ""
+
+#: inc/travolo-framework/travolo-meta/travolo-config.php:317
+msgid "Remove Profile"
+msgstr ""
+
+#: 404.php:25 inc/travolo-framework/travolo-options/travolo-options.php:1269
+msgid "Return To Home"
+msgstr ""
+
+#: inc/woo-hooks/travolo-woo-hooks-functions.php:337
+msgid "Review"
+msgstr ""
+
+#: inc/woo-hooks/travolo-woo-hooks-functions.php:335
+msgid "Reviews"
+msgstr ""
+
+#: inc/woo-hooks/travolo-woo-hooks-functions.php:268
+msgid "Sale"
+msgstr ""
+
+#: inc/woo-hooks/travolo-woo-hooks-functions.php:642
+msgid "Search"
+msgstr ""
+
+#: inc/woo-hooks/travolo-woo-hooks-functions.php:641
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:17
+msgid "Search Here"
+msgstr ""
+
+#: inc/redux-custom-field/wheely-option-slide-add-field.php:189
+#: inc/redux-custom-field/wheely-option-slide-add-field.php:285
+msgid "Search icon..."
+msgstr ""
+
+#: templates/header-menu-bottom.php:185
+msgid "Search Result"
+msgstr ""
+
+#: inc/travolo-breadcrumbs.php:122
+msgid "Search results for: "
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:603
+msgid "Search Your Product"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:246
+msgid "Secondary Color"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:254
+msgid "Secondary Color Two"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1913
+msgid "Section via hook"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1738
+msgid "Select Footer"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:477
+msgid "Select header options."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:487
+msgid "Select header."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1120
+msgid "Select layout"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1175
+msgid ""
+"Select page title tag. If you use this option then you can able to change "
+"title tag H1 - H6 ( Default tag H1 )"
+msgstr ""
+
+#: inc/travolo-framework/travolo-meta/travolo-config.php:152
+msgid "Select Show to display breadcrumb area"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:674
+msgid ""
+"Select your blog post column from here. If you use this option then you will "
+"able to select three type of blog post layout ( Default Two Column )."
+msgstr ""
+
+#: inc/travolo-framework/travolo-meta/travolo-config.php:39
+msgid "Service Page Controller"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:352
+msgid "Set Back to top button Background Color."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:368
+msgid "Set Back to top button border Color."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:360
+msgid "Set Back to top Icon Color."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:781
+msgid "Set Blog Excerpt / Content Color."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:940
+msgid "Set Blog Meta Hover Text Color."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:926
+msgid "Set Blog Meta Icon Color."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:933
+msgid "Set Blog Meta Text Color."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:729
+msgid ""
+"Set blog page custom title form here. If you use this option then you will "
+"able to set your won title text."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:809
+msgid "Set Blog Pagination Active Color."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:802
+msgid "Set Blog Pagination Color."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:817
+msgid "Set Blog Pagination Hover Color."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:767
+msgid "Set Blog Title Color."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:774
+msgid "Set Blog Title Hover Color."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:270
+msgid "Set Body Text Color"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1268
+msgid "Set Button Text "
+msgstr ""
+
+#: inc/travolo-framework/travolo-meta/travolo-config.php:226
+msgid "Set Category Image"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1777
+msgid "Set footer copyright ancor color"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1785
+msgid "Set footer copyright ancor Hover color"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1769
+msgid "Set footer copyright text color"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:263
+msgid "Set Heading Color"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1551
+msgid ""
+"Set how many cross sell products you want to show in single product page."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1459
+msgid "Set how many related products you want to show in single product page."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1505
+msgid "Set how many upsells products you want to show in single product page."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:513
+msgid "Set logo dimensions to choose width, height, and unit."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:525
+msgid "Set logo top and bottom margin."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1600
+msgid "Set mailchimp api key."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1606
+msgid "Set mailchimp list id."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:551
+msgid "Set Menu Color"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:558
+msgid "Set Menu Hover Color"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:621
+msgid "Set Offcanvas Panel Background Color"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:627
+msgid "Set Offcanvas Title color."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1247
+msgid "Set Page Error Number"
+msgstr ""
+
+#: inc/travolo-framework/travolo-meta/travolo-config.php:168
+msgid ""
+"Set page layout container,container fluid,fullwidth or both. It's work only "
+"in template builder page."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1144
+msgid ""
+"Set page sidebar. If you use this option then you will able to set three "
+"type of sidebar ( Default no sidebar )."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1261
+msgid "Set Page Subtitle "
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1254
+msgid "Set Page Title"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:602
+msgid "Set Placeholder Text"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:393
+msgid "Set Preloader Color One"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:399
+msgid "Set Preloader Color Two"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:239
+msgid "Set Primary Theme Color"
+msgstr ""
+
+#: inc/travolo-framework/travolo-meta/travolo-config.php:189
+msgid "Set Product Swap Image"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:634
+msgid "Set Product Title color."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:759
+msgid ""
+"Set read moer text here. If you use this option then you will able to set "
+"your won text."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:788
+msgid "Set Read More Button Color."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:795
+msgid "Set Read More Button Hover Color."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:247
+msgid "Set Secondary Theme Color"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:255
+msgid "Set Secondary Theme Color Two"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1333
+msgid "Set Shop Page Sidebar."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1441
+msgid "Set Stock Quantity Show Hide?"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:586
+msgid "Set Submenu Border Top Color"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:565
+msgid "Set Submenu Color"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:572
+msgid "Set Submenu Hover Color"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:579
+msgid "Set Submenu Icon Color"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1182
+msgid "Set Title Color"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:277
+msgid "Set White Bg Color"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1096
+msgid "Set Widget Anchor Color."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1103
+msgid "Set Widget Anchor Hover Color."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1089
+msgid "Set Widget Text Color."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1082
+msgid "Set Widget Title Color."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1560
+msgid "Set your woocommerce cross sell product column."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1357
+msgid "Set your woocommerce product column."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1468
+msgid "Set your woocommerce related product column."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1514
+msgid "Set your woocommerce upsell product column."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1190
+msgid ""
+"Setting page header background. If you use this option then you will able to "
+"set Background Color, Background Image, Background Repeat, Background Size, "
+"Background Attachment, Background Position."
+msgstr ""
+
+#: inc/redux-custom-field/extensions/box_shadow/box_shadow/field_box_shadow.php:370
+#: inc/redux-custom-field/extensions/box_shadow/box_shadow/field_box_shadow.php:371
+msgid "Shadow Color"
+msgstr ""
+
+#: inc/redux-custom-field/extensions/box_shadow/box_shadow/field_box_shadow.php:417
+msgid "Shadow Preview"
+msgstr ""
+
+#: inc/redux-custom-field/extensions/box_shadow/box_shadow/field_box_shadow.php:388
+#: inc/redux-custom-field/extensions/box_shadow/box_shadow/field_box_shadow.php:389
+#: inc/redux-custom-field/extensions/box_shadow/box_shadow/field_box_shadow.php:390
+msgid "Shadow Type"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:880
+msgid "Share Options"
+msgstr ""
+
+#: inc/hooks/hooks-functions.php:385
+msgid "Share:"
+msgstr ""
+
+#: templates/header-menu-bottom.php:228
+#: inc/travolo-framework/travolo-options/travolo-options.php:1434
+msgid "Shop Details"
+msgstr ""
+
+#: inc/travolo-framework/travolo-meta/travolo-config.php:89
+#: inc/travolo-framework/travolo-meta/travolo-config.php:128
+#: inc/travolo-framework/travolo-options/travolo-options.php:593
+#: inc/travolo-framework/travolo-options/travolo-options.php:708
+#: inc/travolo-framework/travolo-options/travolo-options.php:882
+#: inc/travolo-framework/travolo-options/travolo-options.php:891
+#: inc/travolo-framework/travolo-options/travolo-options.php:900
+#: inc/travolo-framework/travolo-options/travolo-options.php:909
+#: inc/travolo-framework/travolo-options/travolo-options.php:1006
+#: inc/travolo-framework/travolo-options/travolo-options.php:1443
+#: inc/travolo-framework/travolo-options/travolo-options.php:1452
+#: inc/travolo-framework/travolo-options/travolo-options.php:1498
+#: inc/travolo-framework/travolo-options/travolo-options.php:1544
+msgid "Show"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:992
+msgid "Sidebar Options"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1143
+msgid "Sidebar Settings"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:823
+msgid "Single Blog Page"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:503
+msgid "Site Logo"
+msgstr ""
+
+#: inc/woo-hooks/travolo-woo-hooks-functions.php:440
+msgid "SKU:"
+msgstr ""
+
+#: inc/redux-custom-field/wheely-option-slide-add-field.php:72
+msgid "Slide"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:301
+msgid "Smoke Color"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1616
+#: inc/travolo-framework/travolo-options/travolo-options.php:1619
+msgid "Social"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1642
+msgid "Social Icon Class"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1643
+msgid "Social Icon Title"
+msgstr ""
+
+#: inc/travolo-framework/travolo-meta/travolo-config.php:324
+msgid "Social Network"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1624
+msgid "Social Profile Links"
+msgstr ""
+
+#: templates/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/redux-custom-field/extensions/box_shadow/box_shadow/field_box_shadow.php:305
+msgid "Spread"
+msgstr ""
+
+#: inc/redux-custom-field/extensions/box_shadow/box_shadow/field_box_shadow.php:303
+msgid "Spread Radius"
+msgstr ""
+
+#: inc/woo-hooks/travolo-woo-hooks-functions.php:274
+msgid "Stock Out"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1440
+msgid "Stock Quantity Show Hide"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:585
+msgid "Submenu Border Top Color"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:564
+msgid "Submenu Color"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:571
+msgid "Submenu Hover Color"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:578
+msgid "Submenu Icon Color"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1591
+msgid "Subscribe"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1283
+msgid "Subtitle Color"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:313
+msgid "success Color"
+msgstr ""
+
+#: inc/travolo-framework/travolo-meta/travolo-config.php:180
+msgid "Swap Image"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1157
+msgid ""
+"Switch enabled to display page title. Fot this option you will able to show "
+"/ hide page title.  Default setting Enabled"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:384
+msgid "Switch Enabled to Display Preloader."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:343
+msgid "Switch On to Display back to top button."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:982
+msgid "Switch On to Display Category."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:964
+msgid "Switch On to Display Comment Count."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:955
+msgid "Switch On to Display Post Author."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:946
+msgid "Switch On to Display Post Date."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:872
+msgid "Switch On to Display Tags."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:973
+msgid "Switch On to Display Views"
+msgstr ""
+
+#: templates/content-single.php:86
+msgid "Tag:"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:871
+msgid "Tags"
+msgstr ""
+
+#: templates/content-single.php:84
+#: inc/woo-hooks/travolo-woo-hooks-functions.php:446
+msgid "Tags:"
+msgstr ""
+
+#: inc/travolo-framework/travolo-meta/travolo-config.php:292
+msgid "Teachers Metabox"
+msgstr ""
+
+#. Name of the template
+msgid "Template Builder"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:534
+msgid "Text Logo"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1262
+msgid "The page you've requested is not available."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:197
+msgid "Theme Information 1"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:202
+msgid "Theme Information 2"
+msgstr ""
+
+#: inc/woo-hooks/travolo-woo-hooks-functions.php:331
+msgid "There are no reviews yet"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:865
+msgid "This title will show in Breadcrumb title."
+msgstr ""
+
+#: inc/redux-custom-field/wheely-option-slide-add-field.php:158
+#: inc/redux-custom-field/wheely-option-slide-add-field.php:254
+#: inc/travolo-framework/travolo-options/travolo-options.php:1156
+#: inc/travolo-framework/travolo-options/travolo-options.php:1698
+msgid "Title"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1181
+#: inc/travolo-framework/travolo-options/travolo-options.php:1275
+msgid "Title Color"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1174
+msgid "Title Tag"
+msgstr ""
+
+#: inc/woo-hooks/travolo-woo-hooks.php:177
+#: inc/woo-hooks/travolo-woo-hooks.php:228
+#: inc/woo-hooks/travolo-woo-hooks.php:307
+#: inc/woo-hooks/travolo-woo-hooks.php:376
+msgid "Town / City"
+msgstr ""
+
+#. Name of the theme
+msgid "Travolo"
+msgstr ""
+
+#. Description of the theme
+msgid "Travolo - Travel Agency &amp; Tour WordPress Theme"
+msgstr ""
+
+#: inc/travolo-framework/plugins-activation/travolo-active-plugins.php:39
+msgid "Travolo Core"
+msgstr ""
+
+#: inc/demo-data/demo-import.php:19
+msgid "Travolo Demo"
+msgstr ""
+
+#: inc/demo-data/demo-import.php:67
+msgid "Travolo Demo Import"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1708
+msgid "travolo Footer"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:85
+#: inc/travolo-framework/travolo-options/travolo-options.php:86
+msgid "Travolo Options"
+msgstr ""
+
+#: inc/hooks/hooks-functions.php:261
+#: inc/travolo-framework/travolo-options/travolo-options.php:1762
+msgid "Travolo."
+msgstr ""
+
+#: templates/header-menu-bottom.php:201
+msgid "Trip Details"
+msgstr ""
+
+#: inc/redux-custom-field/extensions/box_shadow/box_shadow/field_box_shadow.php:339
+#: inc/redux-custom-field/extensions/box_shadow/box_shadow/field_box_shadow.php:340
+#: inc/redux-custom-field/extensions/box_shadow/box_shadow/field_box_shadow.php:341
+#: inc/redux-custom-field/extensions/box_shadow/box_shadow/field_box_shadow.php:341
+msgid "Units"
+msgstr ""
+
+#: inc/redux-custom-field/wheely-option-slide-add-field.php:139
+#: inc/redux-custom-field/wheely-option-slide-add-field.php:242
+msgid "Upload"
+msgstr ""
+
+#: inc/travolo-framework/travolo-meta/travolo-config.php:108
+msgid "Upload an image or enter an URL."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:505
+msgid "Upload your site logo for header ( recommendation png format )."
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1495
+msgid "Upsell product Hide/Show"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1513
+msgid "Upsells Product Column"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1504
+msgid "Upsells products number"
+msgstr ""
+
+#: inc/redux-custom-field/wheely-option-slide-add-field.php:207
+#: inc/redux-custom-field/wheely-option-slide-add-field.php:301
+msgid "URL"
+msgstr ""
+
+#: inc/travolo-framework/travolo-meta/travolo-config.php:64
+msgid "Use This Field When Post Format Audio"
+msgstr ""
+
+#: inc/travolo-framework/travolo-meta/travolo-config.php:58
+msgid "Use This Field When Post Format Video"
+msgstr ""
+
+#: inc/travolo-framework/travolo-meta/travolo-config.php:70
+msgid "Use This Field When You Want A Slider In Post Thumbnail"
+msgstr ""
+
+#: inc/hooks/hooks-functions.php:261
+#: inc/travolo-framework/travolo-options/travolo-options.php:1762
+msgid "Vecuro"
+msgstr ""
+
+#. Author of the theme
+msgid "Vecurosoft"
+msgstr ""
+
+#: inc/woo-hooks/travolo-woo-hooks-functions.php:493
+msgid "verified owner"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1680
+msgid "Video Box"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1692
+msgid "Video Url"
+msgstr ""
+
+#: inc/woo-hooks/travolo-woo-hooks-functions.php:523
+msgid "View cart"
+msgstr ""
+
+#: inc/hooks/hooks-functions.php:338
+msgid "Views"
+msgstr ""
+
+#: 404.php:24
+msgid "We Can't Seem to find the page you're looking for."
+msgstr ""
+
+#: inc/travolo-functions.php:481
+msgid "What are you looking for?"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:276
+msgid "White Background"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:295
+msgid "White Color"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:451
+msgid "White Logo"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1095
+msgid "Widget Anchor Color"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1041
+msgid "Widget Border"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1102
+msgid "Widget Hover Color"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1023
+msgid "Widget Margin"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1032
+msgid "Widget Padding"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1088
+msgid "Widget Text Color"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1081
+msgid "Widget Title Color"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1064
+msgid "Widget Title Margin"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1072
+msgid "Widget Title Padding"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1059
+msgid "Widget Title Tag"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:999
+msgid "Widgets Background Color"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1005
+msgid "Widgets Custom Box Shadow/Padding/Margin/border"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1326
+msgid "Woocommerce Page"
+msgstr ""
+
+#: inc/travolo-widgets-reg.php:49
+msgid "WooCommerce Sidebar"
+msgstr ""
+
+#: inc/travolo-framework/plugins-activation/travolo-active-plugins.php:47
+msgid "WP Travel Engine"
+msgstr ""
+
+#: inc/travolo-framework/plugins-activation/travolo-active-plugins.php:53
+msgid "WP Travel Engine - Elementor Widgets"
+msgstr ""
+
+#: inc/travolo-framework/travolo-meta/travolo-config.php:44
+msgid "Write Flaticon Class"
+msgstr ""
+
+#: inc/travolo-framework/travolo-meta/travolo-config.php:45
+msgid "Write Flaticon Class For The Icon"
+msgstr ""
+
+#: comments.php:61
+msgid "Write Your Comment *"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:535
+msgid ""
+"Write your logo text use as logo ( You can use span tag for text color )."
+msgstr ""
+
+#: inc/redux-custom-field/extensions/box_shadow/box_shadow/field_box_shadow.php:245
+msgid "X"
+msgstr ""
+
+#: inc/redux-custom-field/extensions/box_shadow/box_shadow/field_box_shadow.php:265
+msgid "Y"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:307
+msgid "Yellow Color"
+msgstr ""
+
+#: inc/woo-hooks/travolo-woo-hooks-functions.php:653
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: inc/travolo-functions.php:283
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: comments.php:66
+msgid "Your email address will not be published. Required fields are marked *"
+msgstr ""
+
+#: inc/woo-hooks/travolo-woo-hooks-functions.php:483
+msgid "Your review is awaiting approval"
+msgstr ""
+
+#: inc/travolo-framework/travolo-options/travolo-options.php:1693
+msgid "Youtube Video Url"
+msgstr ""
